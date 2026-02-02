@@ -107,7 +107,7 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Calendar",
-        url: "/dashboard/motion3/pages",
+        url: "/dashboard/motion3",
         icon: Calendar,
        
       },
